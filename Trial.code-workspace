@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Trial",
+			"path": "."
+		},
+		{
+			"name": "tcpdf",
+			"path": "vendor/tecnickcom/tcpdf"
+		}
+	],
+	"settings": {}
+}
